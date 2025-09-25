@@ -1,0 +1,14 @@
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\bin\Debug\net8.0\Ficha2Ex2.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\bin\Debug\net8.0\Ficha2Ex2.deps.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\bin\Debug\net8.0\Ficha2Ex2.runtimeconfig.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\bin\Debug\net8.0\Ficha2Ex2.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\bin\Debug\net8.0\Ficha2Ex2.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\refint\Ficha2Ex2.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\Ficha2Ex2.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\PWEB\Ficha2\Ficha2Ex2\obj\Debug\net8.0\ref\Ficha2Ex2.dll
